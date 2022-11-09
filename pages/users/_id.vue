@@ -8,7 +8,10 @@
 
 <script>
 export default {
-
+  validate(data) {
+    // check if it's an integer
+    return /^\d+$/.test(data.params.id);
+  }
 }
 </script>
 
