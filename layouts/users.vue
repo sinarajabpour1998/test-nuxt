@@ -5,6 +5,7 @@
       Users section
     </header>
     <Nuxt />
+    <p>2021</p>
   </div>
 </template>
 

@@ -2,6 +2,7 @@
   <div>
     <Header />
     <Nuxt />
+    <p>2022</p>
   </div>
 </template>
 
