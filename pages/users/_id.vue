@@ -1,5 +1,6 @@
 <template>
   <div>
+    <br>
     test id:  {{ $route.params.id }}
     <br>
     <nuxt-link to="/users"><- Back</nuxt-link>
