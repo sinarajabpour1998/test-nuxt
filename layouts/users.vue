@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Header />
     <header>
       Users section
     </header>
